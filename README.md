@@ -14,3 +14,9 @@ The scripts have been written in C#.
 # Control
     Move: WASD
     Shoot: Mouse Left Click 
+    
+    
+# How to Play
+    Clone the project, unzip it.
+    Go to the Builds folder. Open Index.html using Firefox and play the Game!!
+
